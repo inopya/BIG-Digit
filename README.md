@@ -37,6 +37,6 @@ Si se imprime en la posicion que muestra la imagen se evitan los soportes
 
 **Nota**
 
-Si se usan simboles especiales como el el caso de los puntos de separacion en el reloj de la imagen superior, 
+Si se usan simbolos especiales como es el caso de los dos puntos de separacion en el reloj de la imagen superior, 
 estos deben crearse con pixeles del final de la tira leds, es decir tras la formacion de todos los digitos,
 para poder mantener la compatibilidad con las funciones usadas en los ejemplos de la carpeta firmware
