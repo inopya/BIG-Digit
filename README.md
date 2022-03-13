@@ -1,12 +1,14 @@
 # BIG-Digit
 Display 7 segmentos para imprimir en 3D
+Se incluye ejemplo para mostrar contadores, temperaturas y desplazamiento de mensajes de texto.
 
 Digito de 7 segmntos iluminado con tira de leds direccionable, de manera que solo necesitamos ocupar una salida del microcontrolador.
-Es posible concatenar varios leds.
+Es posible concatenar varios digitos.
 En el ejemplo de la carpeta firmware se incluyen rutinas que usan hasta 4 displays
 Se incluye el fichero STL. 
-El tamaño de display esta preparado apra usar tiras de leds de 144 pixels por metro, 
-de manera que se minimizan las soldaduras, redciendose estas solo a las conexiones entre digitos
+El tamaño de display esta preparado para usar tiras de leds de 144 pixels por metro 
+de manera que se minimizan las soldaduras reduciendose estas solo a las conexiones entre digitos.
+Se nos genera de esta manera un display de 55mm dealto por 35 de ancho.
 
 ![](./imagenes/leds.jpg)
 
