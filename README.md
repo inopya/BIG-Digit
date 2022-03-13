@@ -3,7 +3,7 @@
 ![](./imagenes/termometro.png)
 
 
-Display 7 segmentos para imprimir en 3D.
+Display 7 segmentos para imprimir en 3D. ![video demo](./demo_display.avi) 
 
 Permite crear digitos de 7 segmentos iluminados con tira de leds direccionable, de manera que solo necesitamos ocupar una salida del microcontrolador.
 
@@ -54,4 +54,4 @@ para poder mantener la compatibilidad con las funciones usadas en los ejemplos d
  - Los digitos deberan cubrirse en su parte frontal con una lamina de un material translucido (plastico, papel, cinta de carrocero...) 
 para obtener un efecto de iluminacion adecuado.
 
-![video demo](./demo_display.avi) 
+
