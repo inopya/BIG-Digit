@@ -1,4 +1,4 @@
-# BIG Digit 7 Segmentos 3D
+# BIG Digit 7 Segmentos (3D printable)
 
 ![](./imagenes/termometro.png)
 
