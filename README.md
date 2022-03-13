@@ -1,19 +1,19 @@
-# BIG-Digit
-Display 7 segmentos para imprimir en 3D
-Se incluye ejemplo para mostrar contadores, temperaturas y desplazamiento de mensajes de texto.
+# BIG Digit 7 Segmentos 3D
 
-Digito de 7 segmntos iluminado con tira de leds direccionable, de manera que solo necesitamos ocupar una salida del microcontrolador.
+Display 7 segmentos para imprimir en 3D.
+
+Permite crear digitos de 7 segmentos iluminados con tira de leds direccionable, de manera que solo necesitamos ocupar una salida del microcontrolador.
 Es posible concatenar varios digitos.
-En el ejemplo de la carpeta firmware se incluyen rutinas que usan hasta 4 displays
+En el ejemplo de la carpeta firmware se incluyen rutinas que usan hasta 4 displays y ejemplos para mostrar contadores, temperaturas y desplazamientos de mensajes de texto.
 Se incluye el fichero STL. 
-El tamaño de display esta preparado para usar tiras de leds de 144 pixels por metro 
+El tamaño de display del ejemplo esta preparado para usar tiras de leds de 144 pixels por metro 
 de manera que se minimizan las soldaduras reduciendose estas solo a las conexiones entre digitos.
-Se nos genera de esta manera un display de 55mm dealto por 35 de ancho.
+Se nos genera de esta manera un display de 55mm de alto por 35mm de ancho.
 
 ![](./imagenes/leds.jpg)
 
-Si se usan multiples displays el acceso alos digitos será de derecha a izquierda, esdecir primero las unidades.
-Dentro de cada displayel orden de los segmentos es el siguiente:
+Si se usan multiples displays el acceso a los digitos será de derecha a izquierda, es decir primero las unidades.
+Dentro de cada display el orden de los segmentos es el siguiente:
 
 ![](./imagenes/orden_segmentos.png)
 
@@ -27,7 +27,7 @@ Dentro de cada displayel orden de los segmentos es el siguiente:
 
 
 Si se imprime en la posicion que muestra la imagen se evitan los soportes 
-(salvo una minima parteque corresponde a los agujeros que se usan para la union entre digitos)
+(salvo una minima parte que corresponde a los agujeros que se usan para la union entre digitos)
 
 ![](./imagenes/3Da.jpg)  ![](./imagenes/3Db.jpg)
 
