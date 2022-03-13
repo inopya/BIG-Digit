@@ -53,3 +53,5 @@ para poder mantener la compatibilidad con las funciones usadas en los ejemplos d
 
  - Los digitos deberan cubrirse en su parte frontal con una lamina de un material translucido (plastico, papel, cinta de carrocero...) 
 para obtener un efecto de iluminacion adecuado.
+
+![](./demo_display.avi) 
