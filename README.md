@@ -10,6 +10,11 @@ de manera que se minimizan las soldaduras, redciendose estas solo a las conexion
 
 ![](./imagenes/leds.jpg)
 
+Si se usan multiples displays el acceso alos digitos será de derecha a izquierda, esdecir primero las unidades.
+Dentro de cada displayel orden de los segmentos es el siguiente:
+
+![](./imagenes/orden_segmentos.png)
+
 
 **Modelo 3D**
 
