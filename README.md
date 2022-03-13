@@ -1,5 +1,8 @@
 # BIG Digit 7 Segmentos 3D
 
+![](./imagenes/termometro.png)
+
+
 Display 7 segmentos para imprimir en 3D.
 
 Permite crear digitos de 7 segmentos iluminados con tira de leds direccionable, de manera que solo necesitamos ocupar una salida del microcontrolador.
