@@ -55,7 +55,7 @@ para poder mantener la compatibilidad con las funciones usadas en los ejemplos d
 para obtener un efecto de iluminacion adecuado.
 
 
-**Distribucion de los leds en elcaso del reloj...**
+**Distribucion de los leds en el montaje del reloj...**
 
 ![](./imagenes/reloj_esquema.jpg)
 
