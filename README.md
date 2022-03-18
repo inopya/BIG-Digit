@@ -18,12 +18,12 @@ de manera que se minimizan las soldaduras reduciendose estas solo a las conexion
 
 Se nos genera de esta manera un display de 55mm de alto por 35mm de ancho.
 
-![](./imagenes/leds.jpg)  ![](./imagenes/frontal_esquema.png)
+![](./imagenes/leds.jpg)  
 
 Si se usan multiples displays el acceso a los digitos será de derecha a izquierda, es decir primero las unidades.
 Dentro de cada display el orden de los segmentos es el siguiente:
 
-![](./imagenes/orden_segmentos.png)
+![](./imagenes/orden_segmentos.png)  ![](./imagenes/frontal_esquema.png)
 
 
 **Modelo 3D**
