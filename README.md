@@ -68,7 +68,7 @@ Los conos de proyeccion de este modelo quedan demasiado juntos entre algunos de 
 Queda pendiente retocar el modelo para evitar ese pequeño bug.
 
 
-![](./imagenes2/digito_virtual.png)
+![](./imagenes2/digito_virtual.png)        ![](./imagenes2/old_new.png)
 
 
 Detalle del modelo sin y con "horizontal expansion"
