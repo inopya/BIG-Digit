@@ -59,3 +59,24 @@ para obtener un efecto de iluminacion adecuado.
 
 ![](./imagenes/reloj_esquema.jpg)
 
+
+
+**Actualizacion...**
+
+Añadida otra version de digito (distinta tipgrafia) en la varpeta "stl_v2"
+Los conos de proyeccion quedan demasiado juntos en algunos segmentos y se producen "perforaciones" en dos lugares, con lo que será necesario imprimir activando "horizontal expansion" desde cura, con un valor de 0.2
+Queda pendiente retocar el modelo para evitar ese pequeño bug.
+
+
+![](./imagenes2/digito_virtual.png)
+
+
+Detalle del modelo sin y con "horizontal expansion"
+
+![](./imagenes2/bug.png)
+
+
+![](./imagenes2/ok.png)
+
+
+
